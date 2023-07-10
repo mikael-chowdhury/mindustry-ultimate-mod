@@ -3,6 +3,6 @@ displayName: "THE ULTIMATE MOD"
 author: mikaelcoffee
 description: "a pretty ultimate mod"
 version: "1.0"
-minGameVersion: "145.1"
+minGameVersion: "144.3"
 dependencies: []
 hidden: false
